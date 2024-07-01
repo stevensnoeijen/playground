@@ -14,7 +14,7 @@
     "@mantine/hooks": "^7.9.2",
     "@next/env": "^14.2.4",
     "@vercel/postgres": "^0.8.0",
-    "drizzle-orm": "^0.30.10",
+    "drizzle-orm": "^0.31.2",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
